@@ -1,7 +1,7 @@
 # custom-jquery-tabs
 
 jQuery tab örneğinde iç içe tablar, aynı sayfada birden fazla tab ekleyebilir ve özelleştirebilirsiniz. 
-Aşağıdaki kod yapısı 06-js-jquery-library-nested-tab.html sayfasını ve farklı jQuery örneklerni klasör içerisindeki html sayfalardan inceleyebilirsiniz.
+Aşağıdaki kod yapısı 07-js-jquery-library-nested-tab-v2.html sayfasını ve farklı jQuery örneklerni klasör içerisindeki html sayfalardan inceleyebilirsiniz.
 
 jQuery tab menü için https://code.jquery.com/jquery-3.6.0.min.js kodunu yazacağınız script kodunuzun üst kısmına ekleyiniz.
 
